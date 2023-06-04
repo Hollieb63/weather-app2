@@ -2,7 +2,7 @@ h1 {
     font-size: 25px;
     position: absolute;
   top:35px;
-  left:700px;
+  left:650px;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
       "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
       "Segoe UI Symbol";
@@ -55,6 +55,11 @@ h1 {
   #wind {
     text-align: center;
   }
+footer{
+text-align:center;
+font-size:15px;
+padding-top:10px;
 
+}
 
   
